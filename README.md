@@ -1,3 +1,4 @@
+<br>
 <p align="center">
   <img alt="parrots" src="./wave1parrot.gif" />
   <img alt="parrots" src="./wave2parrot.gif" />
