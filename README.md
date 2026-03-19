@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Diwakar-0011/Diwakar-0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="parrots" src="./parrots/wave1parrot.gif" />
+  <img alt="parrots" src="./parrots/wave2parrot.gif" />
+  <img alt="parrots" src="./parrots/wave3parrot.gif" />
+  <img alt="parrots" src="./parrots/wave4parrot.gif" />
+  <img alt="parrots" src="./parrots/wave5parrot.gif" />
+  <img alt="parrots" src="./parrots/wave6parrot.gif" />
+  <img alt="parrots" src="./parrots/wave7parrot.gif" />
+  <img alt="parrots" src="./parrots/wave8parrot.gif" />
+  <img alt="parrots" src="./parrots/wave9parrot.gif" />
+</p>
